@@ -1,0 +1,8 @@
+{
+  "name": "rc2-webhook-generator",
+  "version": "1.0.0",
+  "main": "generate_webhooks.js",
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}

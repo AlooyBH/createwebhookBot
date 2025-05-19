@@ -1,0 +1,22 @@
+[
+  "playerinventory", "joinleave", "default", "testwebhook", "phonechange", "richhouse",
+  "policexp", "playeraddmoney", "playerremovemoney", "inventorydata", "robbing", "trash",
+  "bannerstash", "whearhousestash", "stash", "drop", "trunk", "glovebox", "ownedvehicleshop",
+  "atmrob", "weaponrobbery", "additems100", "removeitems100", "tradeitems", "lawyer", "fishsell",
+  "cuffing", "banking", "vehicleshop", "sellpdmveh", "transferpdmveh", "housesobbery", "pdmshop",
+  "alotofmoney", "vehicleupgrades", "shops", "policearmory", "emsarmory", "resturantshop",
+  "policecams", "policesearch", "policefine", "policeimpound", "jail", "policeeve",
+  "policeselfstash", "dealers", "storerobbery", "vehrobbery", "heistreset", "powerplants",
+  "join", "leave", "loaded", "crash", "death", "sell-items", "cuff", "taxilevel", "towlevel",
+  "garbagelevel", "taxipayment", "towpayment", "garbagepayment", "fishpayment", "recyclelevel",
+  "normalcrafting", "weaponcrafting", "useweaponblueprint", "openweaponbag", "weaponbagfound",
+  "recyclecollectgoods", "normalrecycleduty", "ooc", "chat", "me", "apartmentsbuy", "pmelding",
+  "112", "anticheat", "moneysafes", "bennys", "bossmenu", "robbery", "casino", "traphouse", "911",
+  "palert", "venmo", "house1", "house2", "house3", "fuckers", "smallwash", "moneystorm", "lester",
+  "openadmin", "911report", "911replay", "997report", "997replay", "unwhitelist", "schat",
+  "freze", "announce", "akill", "spectate", "bringgoto", "setjob", "anames", "ablips", "openinv",
+  "weather", "setammo", "aclothing", "nc", "adminqueu", "perm", "reportall", "revive", "tpm",
+  "vehspawn", "adminfix", "reportr", "report", "givemoney", "giveitem", "kik", "bans", "admincar",
+  "giveitemplayer", "copspoint", "8787", "createDocument", "withdrawbattal", "depositbattal",
+  "hire-firebattal"
+]
